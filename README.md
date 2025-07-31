@@ -2,6 +2,7 @@
 I wanted to learn some basic bash scripting <br>
 I thought to myself:
 > why not share it with others?<br>
+
 and so here we are.
 <br><br>
 I tried to comment everything and try to keep things simple.<br>
